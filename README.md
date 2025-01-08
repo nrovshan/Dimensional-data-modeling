@@ -29,3 +29,5 @@ This query performs an incremental load of the Slowly Changing Dimension (SCD) d
 - Same records (actors whose classification and activity remained unchanged).
 - Changed records (actors whose classification or activity changed).
 - New records (actors who were added in the current year).
+
+Note: I extracted the data I used in csv format and uploaded it.
